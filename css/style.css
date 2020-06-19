@@ -1,0 +1,20 @@
+:root {
+    --style-red: #b3001b;
+    --style-black: #262626;
+    --style-medium-blue: #255c99;
+    --style-light-blue: #7ea3cc;
+    --style-tan: #ccad8f;
+}
+
+body {
+    background: var(--style-black);
+}
+
+/* Navbar */
+.navbar {
+    background: var(--style-red) !important;
+}
+
+.nav-link {
+    margin-right: 1rem !important;
+}
