@@ -18,3 +18,15 @@ body {
 .nav-link {
     margin-right: 1rem !important;
 }
+
+.navbar-toggler {
+    background: var(--style-black);
+}
+
+/* Header */
+.header {
+    background-image: url('/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
