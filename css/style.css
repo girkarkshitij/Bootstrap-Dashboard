@@ -48,7 +48,6 @@ body {
 
 .hi {
     color: var(--style-light-blue);
-    font-size: 60px;
 }
 
 /* About Me Section */
@@ -72,3 +71,13 @@ body {
     color: var(--style-red);
 }
 
+/* Portfolio */
+.portfolio {
+    background: white;
+    padding-top: 100px;
+}
+
+.img-fluid {
+    margin: 15px;
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
