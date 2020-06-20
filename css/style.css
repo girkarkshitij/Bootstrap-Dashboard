@@ -53,8 +53,10 @@ body {
 
 /* About Me Section */
 #about-image {
-    height: 90%;
-    width: 90%;
+    height: 100%;
+    width: 100%;
+    padding-right: 2rem;
+    border-right: 3px solid var(--style-light-blue);
 }
 
 .about {
@@ -62,10 +64,11 @@ body {
     line-height: 2rem;
     margin-top: 100px;
     margin-bottom: 0;
-    padding: 0 90px;
+    padding: 40px 90px;
     position: relative;
 }
 
 .me {
     color: var(--style-red);
 }
+
